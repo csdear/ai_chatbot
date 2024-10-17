@@ -1,0 +1,22 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "ai chatbot nodejs chatgpt",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csdear/ai_chatbot"
+  },
+  "author": "Stuart Dear",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.67.3",
+    "readline-sync": "^1.4.10"
+  }
+}
